@@ -1,6 +1,8 @@
 # Integrated-Library-System-ILS-
 Integrated Library Management System (ILS) that can manage book borrowing, returning and other related operations efficiently and effectively.
 
+![MainMenu](Submission/MainMenu.png)
+
 ## DESIGN REQUIREMENTS
 Considering the huge volume of books this library is expected to store in the future, the IT team decides to use both
 MySQL and MongoDB databases to improve efficiency and performance. More specifically, the MySQL database
